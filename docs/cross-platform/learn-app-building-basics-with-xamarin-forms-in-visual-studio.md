@@ -256,7 +256,7 @@ Xamarin.Forms let you implement shared UI code in the .NET Standard library. In 
     }  
     ```  
   
-4.  To open **WeatherPage** as the first screen when the app launches, replace the default constructor in **App.cs** with the following code:  
+4.  To open **WeatherPage** as the first screen when the app launches, replace the default constructor in **App.xaml.cs** with the following code:  
   
     ```csharp  
     public App()  
