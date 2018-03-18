@@ -207,7 +207,7 @@ The following steps then add code to the .NET Standard library to access and sto
 
 Xamarin.Forms let you implement shared UI code in the .NET Standard library. In these steps you'll add a page to the project with a button that updates its text with data returned by the weather data service code added in the previous section:  
   
-1.  Add a **Content Page** named **WeatherPage.cs** by right-clicking the **WeatherApp** project and selecting **Add > New Item...**. In the **Add New Item** dialog, select **Content Page**. Be careful not to select **Content Page (C#)** or **Content View**. Name it **WeatherPage.cs**.  
+1.  Add a **Content Page** named **WeatherPage.xaml** by right-clicking the **WeatherApp** project and selecting **Add > New Item...**. In the **Add New Item** dialog, select **Content Page**. Be careful not to select **Content Page (C#)** or **Content View**. Name it **WeatherPage.cs**.  
   
      ![Adding a new Xamarin.Forms XAML page](../cross-platform/media/crossplat-xamarin-formsguide-6.png "CrossPlat Xamarin FormsGuide 6")  
   
